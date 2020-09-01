@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/dinhanhhuy/jenkins-git-trigger/issues"
   },
-  "homepage": "https://github.com/dinhanhhuy/jenkins-git-trigger#readme"
+  "homepage": "https://github.com/dinhanhhuy/jenkins-git-trigger#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "jenkins": "^0.28.1"
+  }
 }
